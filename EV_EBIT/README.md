@@ -4,9 +4,6 @@ Download financial data of the stocks in OMXSPI (390ish stocks listed in Stockho
 
 More information about OMXSPI: https://indexes.nasdaqomx.com/Index/Overview/OMXSPI
 
-## 🔑 Keywords
-SQLite, Database, Python, Yahoo Finance, Python Pandas, Finance
-
 ## EV / EBIT definition
 
 EV := Enterprise Value = Market Cap + Total Debt - Cash  

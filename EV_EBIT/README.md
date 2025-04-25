@@ -1,6 +1,6 @@
 # Introduction
 
-Download financial data of the stocks in OMXSPI (390ish stocks listed in Stockholm) and rank them based on the financial metric EV / EBIT. 
+Download financial data of the stocks in OMXSPI (390ish stocks listed in Stockholm), store the information in SQL database and rank the companies based on the financial metric EV / EBIT. 
 
 More information about OMXSPI: https://indexes.nasdaqomx.com/Index/Overview/OMXSPI
 

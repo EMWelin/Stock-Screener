@@ -6,9 +6,12 @@ More information about OMXSPI: https://indexes.nasdaqomx.com/Index/Overview/OMXS
 
 April 2025
 
+## 🔑 Keywords
+SQLite, Database, Python, Yahoo Finance, Python Pandas, Finance
+
 ## Introduction
 
-The motivation for producing such a screener is that this service either does not exist or is premium / payed only for the Swedish brokers and banks that I know of. The only good free one that I am aware of is Yahoo Finance; they have great screeners. 
+The motivation for producing stock screeners is that this service either does not exist or is premium / payed only for the Swedish brokers and banks that I know of. The only good free screeners I am aware of is provided by Yahoo. 
   
 I might add a screener for 'twelve minus one' month price-momentum at a later time. That one is useful for the same reason.
 
